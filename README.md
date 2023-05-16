@@ -11,7 +11,7 @@ The session is scheduled for Saturday, June 24, from 9 a.m. – 12:30 p.m. in ro
 Open the Terminal application. Copy and paste this text into the Terminal and hit enter:
 
 ```bash
-cd Desktop/hands_on_classes/20230624-saturday-web-scraping-with-python-pre-registered-attendees-only-1012 && source env/bin/activate
+cd ~/Desktop/hands_on_classes/20230624-saturday-web-scraping-with-python-pre-registered-attendees-only-1012 && source env/bin/activate
 ```
 
 ### Course outline
