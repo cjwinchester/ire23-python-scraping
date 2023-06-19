@@ -37,7 +37,7 @@ cd ~/Desktop/hands_on_classes/20230624-saturday-web-scraping-with-python-pre-reg
     - Jupyter notebooks
     - Running `.py` files from the command line
 - Our projects today:
-    - [Maryland WARN notices](md-warn-notices)
+    - [Texas burn instructors](tx-burn-instructors)
     - [U.S. Senate press gallery](us-senate-press-gallery)
     - [IRE board members](ire-board)
     - [South Dakota lobbyist registration data](sd-lobbyists)

@@ -1,0 +1,415 @@
+YEAR,LOBBYIST_LAST_NAME,LOBBYIST_FIRST_NAME,EMPLOYER
+2021,Michels,Marshall,Department of the Military
+2021,Yost,Martin,Department of the Military
+2021,Marlette,Jeff,Department of the Military
+2021,Harding,Steve,Department of the Military
+2021,Hohn,Connie,Department of the Military
+2021,Campbell,Jason,Department of the Military
+2021,Clines,Jeff,Bureau of Info and Tele
+2021,Perry,Heather,Bureau of Info and Tele
+2021,Edman,Jim,Bureau of Info and Tele
+2021,Snow,Pat,Bureau of Info and Tele
+2021,Pierce,Jeff,Bureau of Info and Tele
+2021,Jost,Amanda,Bureau of Info and Tele
+2021,Rae,Tony,Bureau of Info and Tele
+2021,Hayden-Moreland,Wayne,Bureau of Info and Tele
+2021,Booth,Deanne,Bureau of Info and Tele
+2021,Overgaard,Julie,Bureau of Info and Tele
+2021,Rohrer,Larry,Bureau of Info and Tele
+2021,Patel,Neha,Bureau of Info and Tele
+2021,Flute,David,Department of Tribal Relations
+2021,Schneider,Nicole,Department of Tribal Relations
+2021,Garcia,Mark,Department of Tribal Relations
+2021,Young,Darin,Department of Corrections
+2021,Humig,Danna,Department of Corrections
+2021,Leidholt,Mike,Department of Corrections
+2021,Clark,Doug,Department of Corrections
+2021,Skipper,Brittni,Department of Corrections
+2021,Bunkers,Kristi,Department of Corrections
+2021,Coppersmith,Bridget,Department of Corrections
+2021,Edson,Kim,Department of Corrections
+2021,Schlimgen,Catherine,Department of Corrections
+2021,Miller,Melissa,Real Estate Commission
+2021,Gill,Laurie,Department of Social Services
+2021,Tidball-Zeltinger,Brenda,Department of Social Services
+2021,Mikkonen,Laurie,Department of Social Services
+2021,Ringling,Laura,Department of Social Services
+2021,Wieseler,Virgena,Department of Social Services
+2021,Snyder,William,Department of Social Services
+2021,Lippert,Jeremy,Department of Social Services
+2021,Roy,Diane,Department of Education
+2021,Stoeser,Cody,Department of Education
+2021,LaCroix,Amanda,Department of Education
+2021,Sanderson,Tiffany,Department of Education
+2021,Rae,Lisa,Department of Education
+2021,Turner,Linda,Department of Education
+2021,Leingang,Carla,Department of Education
+2021,Moran,Joe,Department of Education
+2021,Malone,Shannon,Department of Education
+2021,Larsen,Ann,Department of Education
+2021,Scheibe,Laura,Department of Education
+2021,Bossman,Daria,Department of Education
+2021,Jones,Ben,Department of Education
+2021,STADICK SMITH,MARY,Department of Education
+2021,Stroeder,Eric,South Dakota Retirement System
+2021,Humann,Michelle,South Dakota Retirement System
+2021,STORM,JACQUE,South Dakota Retirement System
+2021,ALMOND,TRAVIS,South Dakota Retirement System
+2021,SCHRADER,PAUL,South Dakota Retirement System
+2021,FIDDLER,DOUG,South Dakota Retirement System
+2021,SMITH,DAWN,South Dakota Retirement System
+2021,Beer,Jane,South Dakota Retirement System
+2021,Johns,James,South Dakota Retirement System
+2021,Koldenhoven,Samantha,South Dakota Retirement System
+2021,Oedekoven,Dr. Dustin,Animal Industry Board
+2021,Miller,Dr. Mendel,Animal Industry Board
+2021,Clark,Liza,Bureau of Finance and Management
+2021,Johnson,Derek,Bureau of Finance and Management
+2021,Quasney,Mark,Bureau of Finance and Management
+2021,Keeler,Colin,Bureau of Finance and Management
+2021,Kohler,Steven,Bureau of Finance and Management
+2021,Senger,Keith,Bureau of Finance and Management
+2021,Getz,Hallie,Bureau of Finance and Management
+2021,Williams,Lara,Bureau of Finance and Management
+2021,Gruebele,Morgan,Bureau of Finance and Management
+2021,Keeler,Mary,Bureau of Finance and Management
+2021,Corbin,Steve,Bureau of Finance and Management
+2021,Parsons,Jacob,Bureau of Finance and Management
+2021,Muhr,Lita,Bureau of Finance and Management
+2021,Scheibe,Aaron,Bureau of Finance and Management
+2021,Bachand,Paul,Bureau of Finance and Management
+2021,Kramer,Monte,Bureau of Finance and Management
+2021,Templeton,Don,Bureau of Finance and Management
+2021,Christopherson,Dustin,Bureau of Finance and Management
+2021,Kerr,Allysen,Bureau of Finance and Management
+2021,Carlsen,Bailey,Department of Tourism
+2021,Hagen,James,Department of Tourism
+2021,Goodman,Wanda,Department of Tourism
+2021,Hulstein,Kirk,Department of Tourism
+2021,Gussiaas,Mike,Department of Tourism
+2021,Baker,Patrick,Department of Tourism
+2021,Cruse,Rebecca,Department of Tourism
+2021,Dovre,Travis,Department of Tourism
+2021,Cornelison,Mike,School and Public Lands
+2021,Knapp,Renee,School and Public Lands
+2021,Lauritsen,Mike,School and Public Lands
+2021,Kost-Hillmer,Treyton,School and Public Lands
+2021,Lees,Mike,Department of Agriculture and Natural Resources
+2021,Roth,Troy,Department of Agriculture and Natural Resources
+2021,Mayer,Mark,Department of Agriculture and Natural Resources
+2021,Gronlund,Eric,Department of Agriculture and Natural Resources
+2021,Buscher,Kelli,Department of Agriculture and Natural Resources
+2021,Simmons,Jason,Department of Agriculture and Natural Resources
+2021,Perkovich,Mike,Department of Agriculture and Natural Resources
+2021,Bruels,Andy,Department of Agriculture and Natural Resources
+2021,Woodmansey,Kent,Department of Agriculture and Natural Resources
+2021,Walsh,Brian,Department of Agriculture and Natural Resources
+2021,Keiser,Darcy,Department of Agriculture and Natural Resources
+2021,Goodman,Jeanne,Department of Agriculture and Natural Resources
+2021,Roberts,Hunter,Department of Agriculture and Natural Resources
+2021,McIntosh,Kim,Department of Agriculture and Natural Resources
+2021,Gere,Tom,Department of Agriculture and Natural Resources
+2021,Pontious,Brian,Department of Agriculture and Natural Resources
+2021,Schiefelbein,Derek,Department of Agriculture and Natural Resources
+2021,McGuire,Jaclyn,Department of Agriculture and Natural Resources
+2021,Smith,Bill,Department of Agriculture and Natural Resources
+2021,Besch,Peggy,Department of Agriculture and Natural Resources
+2021,Esperance,Jay,Department of Agriculture and Natural Resources
+2021,Josten,Greg,Department of Agriculture and Natural Resources
+2021,Hight,Todd,Housing Development Authority
+2021,Polak,Lorraine,Housing Development Authority
+2021,Harsma,Mike,Housing Development Authority
+2021,McGuigan,Charles,Attorney General
+2021,Bormann,Tim,Attorney General
+2021,Blair,Steven,Attorney General
+2021,Natvig,David,Attorney General
+2021,Zeeb,Brian,Attorney General
+2021,Rechtenbaugh,Scott,Attorney General
+2021,Roth,Kelsey,Attorney General
+2021,Deadrick,Tom,Attorney General
+2021,Hohn,Connie,Department of Veterans Affairs
+2021,Wilcox,Susan,Department of Veterans Affairs
+2021,Seeley,Darin,Bureau of Human Resources
+2021,Zeller,Ellen,Bureau of Human Resources
+2021,Barnett,Mallori,Bureau of Human Resources
+2021,Stulken,Judy,Bureau of Human Resources
+2021,Petersen,Chris,"Department of Game, Fish and Parks"
+2021,Schelhaas,Sam,"Department of Game, Fish and Parks"
+2021,Fisk,Keith,"Department of Game, Fish and Parks"
+2021,Robling,Kevin,"Department of Game, Fish and Parks"
+2021,Simpson,Scott,"Department of Game, Fish and Parks"
+2021,Kirschenmann,Tom,"Department of Game, Fish and Parks"
+2021,Kotilnek,Jon,"Department of Game, Fish and Parks"
+2021,Nedved,Al,"Department of Game, Fish and Parks"
+2021,Villa,Heather,"Department of Game, Fish and Parks"
+2021,Jensen,Steven,Unified Judicial System
+2021,Houwman,Hon. Robin,Unified Judicial System
+2021,Day,Hon. Michael,Unified Judicial System
+2021,Sattizahn,Greg,Unified Judicial System
+2021,Gilbertson,David,Unified Judicial System
+2021,Olson,Aaron,Unified Judicial System
+2021,Starr,Suzanne,Unified Judicial System
+2021,Stevens,Sadie,Unified Judicial System
+2021,Novotny,Brittany,Board of Dentistry
+2021,McIntosh,Kim,Dept. of Agriculture and Nat Resources
+2021,Gere,Tom,Dept. of Agriculture and Nat Resources
+2021,Pontious,Brian,Dept. of Agriculture and Nat Resources
+2021,Schiefelbein,Derek,Dept. of Agriculture and Nat Resources
+2021,Lees,Mike,Dept. of Agriculture and Nat Resources
+2021,Roth,Troy,Dept. of Agriculture and Nat Resources
+2021,Mayer,Mark,Dept. of Agriculture and Nat Resources
+2021,Gronlund,Eric,Dept. of Agriculture and Nat Resources
+2021,Smith,Bill,Dept. of Agriculture and Nat Resources
+2021,Besch,Peggy,Dept. of Agriculture and Nat Resources
+2021,Esperance,Jay,Dept. of Agriculture and Nat Resources
+2021,Josten,Greg,Dept. of Agriculture and Nat Resources
+2021,McGuire,Jaclyn,Dept. of Agriculture and Nat Resources
+2021,Buscher,Kelli,Dept. of Agriculture and Nat Resources
+2021,Roberts,Hunter,Dept. of Agriculture and Nat Resources
+2021,Goodman,Jeanne,Dept. of Agriculture and Nat Resources
+2021,Keiser,Darcy,Dept. of Agriculture and Nat Resources
+2021,Walsh,Brian,Dept. of Agriculture and Nat Resources
+2021,Simmons,Jason,Dept. of Agriculture and Nat Resources
+2021,Woodmansey,Kent,Dept. of Agriculture and Nat Resources
+2021,Bruels,Andy,Dept. of Agriculture and Nat Resources
+2021,Perkovich,Mike,Dept. of Agriculture and Nat Resources
+2021,Stewart,Greta,Gov's Office of Econ Dev
+2021,Vallery,Rick,Gov's Office of Econ Dev
+2021,Westra,Steve,Gov's Office of Econ Dev
+2021,Lehecka Nelson,Mary,Gov's Office of Econ Dev
+2021,Fiala,Joe,Gov's Office of Econ Dev
+2021,Stoeser,Cassie,Gov's Office of Econ Dev
+2021,Dovre,Travis,Gov's Office of Econ Dev
+2021,Engel,Tim,Gov's Office of Econ Dev
+2021,Scheibe,Aaron,Gov's Office of Econ Dev
+2021,Terwilliger,Jim,Department of Revenue
+2021,Wiest,David,Department of Revenue
+2021,Schinkel,Doug,Department of Revenue
+2021,Jares,Alison,Department of Revenue
+2021,Evans,Jason,Department of Revenue
+2021,Williams,Rachel,Department of Revenue
+2021,Lingle,Norm,Department of Revenue
+2021,Hepper,Clark,Department of Revenue
+2021,Gruber,Marla,Department of Revenue
+2021,Coyle,Lesley,Department of Revenue
+2021,Semmler,Wendy,Department of Revenue
+2021,Richardson,Toni,Department of Revenue
+2021,Nagel,Justin,Department of Revenue
+2021,Adams,Bobi,Department of Revenue
+2021,Valentine,Tom,Department of Revenue
+2021,Houdyshell,Michael,Department of Revenue
+2021,Richter,John,Department of Revenue
+2021,Fuoss,Anita,Department of Revenue
+2021,Nelson,Morgan,Department of Revenue
+2021,Yaeger,Rosa,Department of Revenue
+2021,Weischedel,Monica,Department of Revenue
+2021,Thomas,Alana,Department of Revenue
+2021,Zilverberg,Ashley,Department of Revenue
+2021,Bonrud,Shelia,Governor's Office
+2021,Cambon,Allen,Governor's Office
+2021,Fury,Ian,Governor's Office
+2021,Goltz,Megan,Governor's Office
+2021,Hollatz,Beth,Governor's Office
+2021,Hruska,Katie,Governor's Office
+2021,Koisti,Ben,Governor's Office
+2021,McCaulley,Matt,Governor's Office
+2021,Miller,Mark,Governor's Office
+2021,Muldoon,Julie,Governor's Office
+2021,Oglesby,Rachel,Governor's Office
+2021,Sanderson,Tiffany,Governor's Office
+2021,Seidel,Maggie,Governor's Office
+2021,Thorman,Caroline,Governor's Office
+2021,Venhuizen,Tony,Governor's Office
+2021,Sheahan,Madison,Governor's Office
+2021,Coleman,John,Governor's Office
+2021,Klemann,Melissa,Governor's Office
+2021,Burchill,Pat,SD Ellsworth Development Authority
+2021,Landguth,Scott,SD Ellsworth Development Authority
+2021,Kneafsey,David,SD Ellsworth Development Authority
+2021,Kendall,Lynn,SD Ellsworth Development Authority
+2021,Spindle,Bill,Board of Regents
+2021,Holbeck,Mike,Board of Regents
+2021,Lien,Joelle,Board of Regents
+2021,Fulton,Neil,Board of Regents
+2021,Gibbons,William (Bill),Board of Regents
+2021,Trautman,Karla,Board of Regents
+2021,Scholl,Daniel,Board of Regents
+2021,Brown,Brock,Board of Regents
+2021,Trefz,Dan,Board of Regents
+2021,Wadsworth,Kim,Board of Regents
+2021,Maher,Brian,Board of Regents
+2021,Langdell,Anne,Board of Regents
+2021,Minder,Janice,Board of Regents
+2021,Romkema,Priscilla,Board of Regents
+2021,Ridgway,Tim,Board of Regents
+2021,Davis,Ralph,Board of Regents
+2021,Cassady,Joe,Board of Regents
+2021,Wright,Joseph,Board of Regents
+2021,Cammack,Kristi,Board of Regents
+2021,Blair,Amanda,Board of Regents
+2021,West,Michael,Board of Regents
+2021,Anderson,Laurie,Board of Regents
+2021,Hall,Robert,Board of Regents
+2021,AbouSamra,Haifa,Board of Regents
+2021,Perry,Jay,Board of Regents
+2021,Sell,Justin,Board of Regents
+2021,Olive,Les,Board of Regents
+2021,Engebretson,Dan,Board of Regents
+2021,Bastian,John,Board of Regents
+2021,Thares,Jim,Board of Regents
+2021,Wink,Joan,Board of Regents
+2021,Morgan,Jim,Board of Regents
+2021,Roberts,Pam,Board of Regents
+2021,Schaefer,Randy,Board of Regents
+2021,Schieffer,Kevin,Board of Regents
+2021,Stork,Barb,Board of Regents
+2021,Nichols,Laurie,Board of Regents
+2021,Griffiths,Jose Marie,Board of Regents
+2021,Downs,Timothy,Board of Regents
+2021,Rankin,Jim,Board of Regents
+2021,Gestring,Sheila,Board of Regents
+2021,Dunn,Barry,Board of Regents
+2021,Forney,Heather,Board of Regents
+2021,Toman,Janelle,Board of Regents
+2021,Bastian,Kayla,Board of Regents
+2021,Lukkes,Nathan,Board of Regents
+2021,Johnson,Kathy,Board of Regents
+2021,Krusemark,Stacy,Board of Regents
+2021,Moran,Jim,Board of Regents
+2021,Paulson,Veronica,Board of Regents
+2021,Wanous,Michael,Board of Regents
+2021,Roberts,Lance,Board of Regents
+2021,Hedge,Dennis,Board of Regents
+2021,Killefer,John,Board of Regents
+2021,Rosheim,Adam,Board of Regents
+2021,Hackemer,Kurt,Board of Regents
+2021,Hluchy,Claudean,Board of Regents
+2021,Sanderson,Carrie,Board of Regents
+2021,Abeln,Barb,Department of Human Services
+2021,Boos,Carole,Department of Human Services
+2021,Martinec,Tom,Department of Human Services
+2021,Mattke,Gaye,Department of Human Services
+2021,Rechtenbaugh,Shawnie,Department of Human Services
+2021,Thomas,Yvette,Department of Human Services
+2021,Weiss,Eric,Department of Human Services
+2021,Younie,Joey,Department of Human Services
+2021,Jordan,Travis,Department of Human Services
+2021,Fischer,Donna,Department of Human Services
+2021,Shanard-Koenders,Kari,Board of Pharmacy
+2021,Dell,Maggie,Department of Labor and Regulation
+2021,Heier,Pauline,Department of Labor and Regulation
+2021,Bren,Sherry,Department of Labor and Regulation
+2021,Ringstmeyer,Kendra,Department of Labor and Regulation
+2021,Kienholz,Peter,Department of Labor and Regulation
+2021,Decker,Mackenzie,Department of Labor and Regulation
+2021,Hultman,Marcia,Department of Labor and Regulation
+2021,Dovre,Dawn,Department of Labor and Regulation
+2021,Ward,Emily,Department of Labor and Regulation
+2021,Oey,Graham,Department of Labor and Regulation
+2021,Mulder,Amber,Department of Labor and Regulation
+2021,Afdahl,Bret,Department of Labor and Regulation
+2021,Jensen,Brock,Department of Labor and Regulation
+2021,Deiter,Larry,Department of Labor and Regulation
+2021,Kruger,Jill,Department of Labor and Regulation
+2021,Marnell,Frank,Department of Labor and Regulation
+2021,Nickelson,Johanna,Department of Labor and Regulation
+2021,Holbrook,Candy,Department of Labor and Regulation
+2021,Jordan,Travis,Department of Labor and Regulation
+2021,Mehlhaff,James,Department of Labor and Regulation
+2021,Boyd,Kate,Cosmetology Commission
+2021,de Hueck,Adam,Public Utilities Commission
+2021,Reisss,Amanda,Public Utilities Commission
+2021,Kemnitz,Cindy,Public Utilities Commission
+2021,Chambliss,Cody,Public Utilities Commission
+2021,Kearney,Darren,Public Utilities Commission
+2021,Gregg,Deb,Public Utilities Commission
+2021,Rislov,Greg,Public Utilities Commission
+2021,Thurber,Jon,Public Utilities Commission
+2021,Cremer,Karen,Public Utilities Commission
+2021,Edwards,Kristen,Public Utilities Commission
+2021,Mohr,Leah,Public Utilities Commission
+2021,Zanter,Mary,Public Utilities Commission
+2021,Van Gerpen,Patricia,Public Utilities Commission
+2021,Hansen,Margaret,Board of Medical and Osteopathic Examiners
+2021,Christian,Susan,Commission On Gaming
+2021,Eliason,Larry,Commission On Gaming
+2021,Sparrow,Craig,Commission On Gaming
+2021,Bollinger,Scott W.,Bureau of Administration
+2021,Gerlach,Andy,Bureau of Administration
+2021,Berg,Steve,Bureau of Administration
+2021,Jasper,Kirsten,Bureau of Administration
+2021,Svendsen,Leah,Bureau of Administration
+2021,Ambach,Craig,Bureau of Administration
+2021,Scheibe,Aaron P.,South Dakota Investment Council
+2021,Nelson,Jeff,South Dakota Investment Council
+2021,Clark,Matt,South Dakota Investment Council
+2021,Ripley,Nina,Plumbing Commission
+2021,Headley,Mike,SD Science & Technology Authority
+2021,Engel,Tim M.,SD Science & Technology Authority
+2021,Abraham,Doug,SD Science & Technology Authority
+2021,Oxner,Matt,Department of Public Safety
+2021,Scheibe,Aaron,Department of Public Safety
+2021,Price,Craig,Department of Public Safety
+2021,Miller,Rick,Department of Public Safety
+2021,Weinmeister,Rob,Department of Public Safety
+2021,Husby,Jason,Department of Public Safety
+2021,Broers,John,Department of Public Safety
+2021,Lusk,Dan,Department of Public Safety
+2021,Lemieux,Angie,Department of Public Safety
+2021,Turman,Kristi,Department of Public Safety
+2021,Mancuso,Amy,Department of Public Safety
+2021,Schrank,Jane,Department of Public Safety
+2021,Merriman,Paul,Department of Public Safety
+2021,Titze,Tina,Department of Public Safety
+2021,Olson,Cora,Department of Public Safety
+2021,Steen,Tyler,Department of Public Safety
+2021,Bierne,Jon,Department of Public Safety
+2021,Young,Linda,Board of Nursing
+2021,Linn Jr.,John J.,DLR Electrical Commission
+2021,Dokken,Beth,Department of Health
+2021,McGuigan,Darcy,Department of Health
+2021,Clayton,Joshua,Department of Health
+2021,Young,Linda,Department of Health
+2021,Novotny,Brittany,Department of Health
+2021,Shanard-Koenders,Kari,Department of Health
+2021,Hansen,Margaret,Department of Health
+2021,Walter,Marcia,Department of Health
+2021,Tellinghuisen,Carol,Department of Health
+2021,Bucheli,Daniel,Department of Health
+2021,Mayer,Alex,Department of Health
+2021,Malsam-Rysdon,Kim,Department of Health
+2021,Adam,Joan,Department of Health
+2021,Valenti,Lynne,Department of Health
+2021,Williams,Justin,Department of Health
+2021,Jundt,Joel,Department of Transportation
+2021,Behm,Mike,Department of Transportation
+2021,Beck,Kellie,Department of Transportation
+2021,Williams,Tammy,Department of Transportation
+2021,DeBoer,Dustin,Department of Transportation
+2021,Nevin,Bill,Department of Transportation
+2021,Smith,Craig,Department of Transportation
+2021,Seaman,Todd,Department of Transportation
+2021,Stevenson,Julie,Department of Transportation
+2021,Patterson,Kathryn,Board of Technical Professions
+2021,Rounds,Krista,Secretary of State
+2021,Barnett,Steve,Secretary of State
+2021,Lutz,Jason,Secretary of State
+2021,Dowling,Kayla,Secretary of State
+2021,Warne,Kea,Secretary of State
+2021,Lehrkamp,Christine,Secretary of State
+2021,Soulek,Rachel,Secretary of State
+2021,Boxley,Kayla,Secretary of State
+2021,Holt,Kyle,Secretary of State
+2021,Mennenger,Rory,Secretary of State
+2021,Tibbs,Bailey,Secretary of State
+2021,Kerr,Emily,Secretary of State
+2021,Williams,Jason,State Treasurer Office
+2021,DeJabet,Lee,State Treasurer Office
+2021,Hull,Melissa,State Treasurer Office
+2021,Almond,Penni,State Treasurer Office
+2021,Grambihler,Anissa,State Treasurer Office
+2021,Wendell,Nick,Board of Technical Education
+2021,DesLauriers,Scott,Board of Technical Education
+2021,Janes,Larry,Statewide One-Call Notification Board
+2021,Tellinghuisen,Carol,Board of Speech-Language Pathologists
+2021,Walter,Marcia,Board of Chiropractic Examiners
