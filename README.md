@@ -24,7 +24,7 @@ cd ~/Desktop/hands_on_classes/20230624-saturday-web-scraping-with-python-pre-reg
         - When feasible, save copies of pages locally, then scrape from those files
         - [Rotate user-agent strings](https://www.useragents.me/) and other headers if necessary to avoid bot detection
 - Using your favorite brower's inspection tools to deconstruct the target page(s)
-    - See if the data is delivered to the page in a ready-to-use format, such as JSON ([example](https://sdlegislature.gov/Session/Archived))
+    - See if the data is delivered via undocumented API to the page in a ready-to-use format, such as JSON ([example 1](https://sdlegislature.gov/Session/Archived), [example 2](https://www.britishmuseum.org/collection)) -- [Postman](https://www.postman.com) or similar software is handy for testing out API calls
     - Is the HTML part of the actual page structure, or is it built on the fly when the page loads? ([example](https://rrctx.force.com/s/complaints))
     - Can you open the URL directly in an incognito window and get to the same content, or does the page require a specific state to deliver the content (via search navigation, etc.)? ([example](https://rrctx.force.com/s/ietrs-complaint/a0ct0000000mOmhAAE/complaint0000000008))
     - Are there [URL query parameters](https://en.wikipedia.org/wiki/Query_string) that you can tweak to get different results? ([example](https://www.worksafe.qld.gov.au/news-and-events/alerts))
